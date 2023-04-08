@@ -1,6 +1,6 @@
 
 param (
-    [string]$PythonVersion="3.11.2",
+    [string]$PythonVersion="3.11.3",
     [bool]$InstallVirtualenv=$False
 )
 
